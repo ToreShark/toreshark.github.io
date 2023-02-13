@@ -11,3 +11,15 @@ section{
     margin: 0 auto;
     padding: 0 20px;
 }
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2.5rem;
+    align-items: center;
+    justify-content: center;
+}
+.left img{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
