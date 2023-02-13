@@ -38,8 +38,8 @@ section{
     background: var(--color);
     display: inline-block;
     padding: 5px 15px;
-    fzont-size: 16px;
-    brder-radius: 4px;
+    font-size: 16px;
+    border-radius: 4px;
 }
 .right h1{
     font-size: 2rem;
