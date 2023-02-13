@@ -4,7 +4,10 @@ section{
     align-items: center;
     background: #010101;
 }
-
+.about{
+    width: 300px;
+    height: 500px;
+}
 .container{
     width: 100%;
     max-width: 1160px;
