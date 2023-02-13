@@ -29,7 +29,7 @@ section{
     height: auto;
     vertical-align: middle;
 }
-.right > *{
+.right {
     margin-bottom: 1.1rem;
     color: #fff;
 }
